@@ -4,3 +4,6 @@ import Home from "../components/Home";
 export default function Index() {
   return <Home />;
 }
+git add pages/index.js
+git commit -m "✨ Replace placeholder with Home component"
+git push origin main
